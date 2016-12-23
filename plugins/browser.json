@@ -7,19 +7,7 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-battery-status": {
-            "PACKAGE_NAME": "ru.rucard.banking"
-        },
-        "cordova-plugin-camera": {
-            "PACKAGE_NAME": "ru.rucard.banking"
-        },
-        "cordova-plugin-media-capture": {
-            "PACKAGE_NAME": "ru.rucard.banking"
-        },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "ru.rucard.banking"
-        },
-        "cordova-plugin-contacts": {
             "PACKAGE_NAME": "ru.rucard.banking"
         },
         "cordova-plugin-device": {
@@ -37,9 +25,6 @@
         "cordova-plugin-file-transfer": {
             "PACKAGE_NAME": "ru.rucard.banking"
         },
-        "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "ru.rucard.banking"
-        },
         "cordova-plugin-globalization": {
             "PACKAGE_NAME": "ru.rucard.banking"
         },
@@ -49,16 +34,10 @@
         "cordova-plugin-media": {
             "PACKAGE_NAME": "ru.rucard.banking"
         },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "ru.rucard.banking"
-        },
         "cordova-plugin-splashscreen": {
             "PACKAGE_NAME": "ru.rucard.banking"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "ru.rucard.banking"
-        },
-        "cordova-plugin-vibration": {
             "PACKAGE_NAME": "ru.rucard.banking"
         },
         "cordova-plugin-whitelist": {
